@@ -18,5 +18,5 @@ This repository aims at summing up in the same place all the important notions t
 ## Website
 This material is also available on a dedicated [website](https://stanford.edu/~shervine/teaching/cme-102), so that you can enjoy reading it from any device.
 
-## Author
-Shervine Amidi, TA for CME 102: Ordinary Differential Equations for Engineers, Stanford University, Spring 2018.
+## Authors
+[Afshine Amidi](https://twitter.com/afshinea) (Ecole Centrale Paris, MIT) and [Shervine Amidi](https://twitter.com/shervinea) (Ecole Centrale Paris, Stanford University)
